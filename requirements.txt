@@ -1,13 +1,33 @@
-aniso8601 @ file:///home/conda/feedstock_root/build_artifacts/aniso8601_1618789466884/work
-click @ file:///Users/runner/miniforge3/conda-bld/click_1635822706141/work
-dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
-Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1633384704162/work
-Flask-Cors @ file:///home/conda/feedstock_root/build_artifacts/flask-cors_1622383494577/work
-Flask-RESTful @ file:///home/conda/feedstock_root/build_artifacts/flask-restful_1622406740831/work
-itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
-MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1635833685495/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1642714909499/work
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+aniso8601=9.0.1=pyhd8ed1ab_0
+bzip2=1.0.8=h3422bc3_4
+ca-certificates=2021.10.8=h4653dfc_0
+click=8.0.3=py310hbe9552e_1
+dataclasses=0.8=pyhc8e2a94_3
+flask=2.0.2=pyhd8ed1ab_0
+flask-cors=3.0.10=pyhd8ed1ab_0
+flask-restful=0.3.9=pyhd8ed1ab_0
+itsdangerous=2.0.1=pyhd8ed1ab_0
+jinja2=3.0.3=pyhd8ed1ab_0
+libffi=3.4.2=h3422bc3_5
+libzlib=1.2.11=hee7b306_1013
+markupsafe=2.0.1=py310he2143c4_1
+ncurses=6.3=hc470f4d_0
+openssl=3.0.0=h3422bc3_2
+pip=22.0.3=pyhd8ed1ab_0
+python=3.10.2=h38ef502_3_cpython
+python-dateutil=2.8.2=pyhd8ed1ab_0
+python_abi=3.10=2_cp310
+pytz=2021.3=pyhd8ed1ab_0
+readline=8.1=hedafd6a_0
+setuptools=60.7.1=py310hbe9552e_0
+six=1.16.0=pyh6c4a22f_0
+sqlite=3.37.0=h72a2b83_0
+tk=8.6.11=he1e0b03_1
+tzdata=2021e=he74cb21_0
+werkzeug=2.0.2=pyhd8ed1ab_0
+wheel=0.37.1=pyhd8ed1ab_0
+xz=5.2.5=h642e427_1
+zlib=1.2.11=hee7b306_1013
