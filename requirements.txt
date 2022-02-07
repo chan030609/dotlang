@@ -1,3 +1,13 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: osx-arm64
+aniso8601 @ file:///home/conda/feedstock_root/build_artifacts/aniso8601_1618789466884/work
+click @ file:///Users/runner/miniforge3/conda-bld/click_1635822706141/work
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1633384704162/work
+Flask-Cors @ file:///home/conda/feedstock_root/build_artifacts/flask-cors_1622383494577/work
+Flask-RESTful @ file:///home/conda/feedstock_root/build_artifacts/flask-restful_1622406740831/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1635833685495/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1642714909499/work
